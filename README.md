@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/cover.png" alt="MetaDev Loadscreen" width="100%">
+<img src="docs/images/tanitim.png" alt="MetaDev Loadscreen" width="100%">
 
 # MetaDev Loadscreen
 
@@ -46,11 +46,9 @@ Snow at New Year, hearts on Valentine's Day, embers on Halloween, autumn leaves 
 
 ## Screenshots
 
-| Glass | Minimal |
-|---|---|
-| ![Glass](docs/images/glass.png) | ![Minimal](docs/images/minimal.png) |
+![Features](docs/images/ozellikler.png)
 
-![Scheduled themes](docs/images/themes.png)
+![Scheduled themes](docs/images/tanitim2.png)
 
 ## Installation
 

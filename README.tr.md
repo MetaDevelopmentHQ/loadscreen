@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/images/cover.png" alt="MetaDev Loadscreen" width="100%">
+<img src="docs/images/tanitim.png" alt="MetaDev Loadscreen" width="100%">
 
 # MetaDev Loadscreen
 
@@ -46,11 +46,9 @@ Yılbaşında kar yağar, 29 Ekim'de kırmızı-beyaz konfeti, 14 Şubat'ta kalp
 
 ## Ekran görüntüleri
 
-| Glass | Minimal |
-|---|---|
-| ![Glass](docs/images/glass.png) | ![Minimal](docs/images/minimal.png) |
+![Özellikler](docs/images/ozellikler.png)
 
-![Zamanlanmış temalar](docs/images/themes.png)
+![Zamanlanmış temalar](docs/images/tanitim2.png)
 
 ## Kurulum
 
