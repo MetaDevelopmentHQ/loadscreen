@@ -11,7 +11,7 @@ A free, open source FiveM loading screen with an in-game editor and 26 scheduled
 [![License: MIT](https://img.shields.io/badge/License-MIT-8B5CF6.svg)](LICENSE)
 [![FiveM](https://img.shields.io/badge/FiveM-Ready-22C3E6.svg)](#installation)
 [![Frameworks](https://img.shields.io/badge/ESX%20%C2%B7%20QBCore%20%C2%B7%20Qbox%20%C2%B7%20Standalone-supported-8B5CF6.svg)](#frameworks)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2.svg)](https://discord.gg/metav)
+[![Discord](https://img.shields.io/badge/Discord-Join-5865F2.svg)](https://discord.gg/metadev)
 
 **English** · [Türkçe](README.tr.md)
 
