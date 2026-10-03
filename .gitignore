@@ -1,7 +1,0 @@
-# Runtime data written by the server (see data/README.md)
-data/theme.json
-data/stats.json
-data/history/*.json
-
-# Local tooling
-node_modules/
