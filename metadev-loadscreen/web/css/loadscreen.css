@@ -1,0 +1,29 @@
+/*
+ * MetaDev Loadscreen · loadscreen.css
+ * Page shell for the loading screen; the design itself lives in stage.css.
+ */
+
+html,
+body {
+  margin: 0;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  background: #07090C;
+}
+
+#app {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+  opacity: 0;
+  transition: opacity 400ms ease;
+}
+
+#app.is-ready { opacity: 1; }
+
+/* Final fade before ShutdownLoadingScreenNui(); duration set from Lua config. */
+#app.is-leaving {
+  opacity: 0;
+  transition-duration: var(--leave-ms, 800ms);
+}

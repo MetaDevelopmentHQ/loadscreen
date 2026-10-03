@@ -1,0 +1,241 @@
+{
+  "meta": { "code": "tr", "name": "Türkçe", "intl": "tr-TR" },
+
+  "players": {
+    "glass": "{online} / {max} oyuncu çevrimiçi",
+    "minimal": "{online} / {max} ÇEVRİMİÇİ"
+  },
+  "stages": {
+    "label": "AŞAMA {n} / {total}",
+    "names": ["Kaynaklar", "Haritalar", "Araçlar", "Karakter"],
+    "loading": ["Kaynaklar yükleniyor", "Haritalar yükleniyor", "Araçlar yükleniyor", "Karakter hazırlanıyor"],
+    "done": "Şehre giriliyor"
+  },
+  "eta": {
+    "remaining": "Yaklaşık {time} kaldı",
+    "seconds": "{n} sn",
+    "minutes": "{n} dk",
+    "almost": "Neredeyse hazır"
+  },
+  "cards": {
+    "tabs": { "rules": "Kurallar", "updates": "Güncellemeler", "tips": "İpuçları" },
+    "labels": { "rules": "KURAL", "updates": "GÜNCELLEME", "tips": "İPUCU" },
+    "autoRotate": "Otomatik geçiş · {n} sn",
+    "prevTip": "Önceki ipucu",
+    "nextTip": "Sonraki ipucu"
+  },
+  "music": {
+    "nowPlaying": "ŞİMDİ ÇALIYOR",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "toggle": "Oynat / Duraklat",
+    "volume": "Sesi kapat / aç",
+    "placeholderTitle": "[Şarkı adı]",
+    "placeholderArtist": "[Sanatçı]",
+    "respect": "Saygı nedeniyle bugün müzik kapalıdır."
+  },
+  "keys": {
+    "space": "SPACE",
+    "pause": "Müziği durdur",
+    "arrows": "← →",
+    "cards": "Kartları değiştir",
+    "m": "M",
+    "mute": "Sesi kapat"
+  },
+  "welcome": {
+    "back": "Tekrar hoş geldin, {name}",
+    "first": "Hoş geldin, {name}",
+    "lastSeen": "Son giriş: {when}",
+    "firstTime": "İlk girişin, iyi eğlenceler",
+    "sampleName": "Frik"
+  },
+  "credit": { "madeBy": "MADE BY", "brand": "METADEV" },
+
+  "defaults": {
+    "serverName": "MetaV",
+    "serverLabel": "MetaV Roleplay",
+    "badge": "SEZON 3 · YENİ ŞEHİR",
+    "slogan": "Şehre hoş geldin. Hikâyeni yazmaya birkaç saniye kaldı.",
+    "cards": {
+      "rules": [
+        { "title": "Meta-gaming yasaktır", "body": "Karakterinin bilmediği bilgiyi oyunda kullanma." },
+        { "title": "Power-gaming yasaktır", "body": "Karşı tarafa tepki verme şansı tanı." },
+        { "title": "Yeşil bölgelere saygı", "body": "Hastane ve karakol çevresinde çatışma başlatılmaz." },
+        { "title": "Ticket ile bildir", "body": "Kural ihlallerini Discord üzerinden ilet." }
+      ],
+      "updates": [
+        { "title": "Yeni şehir merkezi", "body": "[Güncelleme açıklaması buraya]" },
+        { "title": "Ekonomi düzenlemesi", "body": "[Güncelleme açıklaması buraya]" },
+        { "title": "Yeni meslekler", "body": "[Güncelleme açıklaması buraya]" }
+      ],
+      "tips": [
+        { "title": "Telefonu aç", "body": "F1 ile telefonunu açıp kayıt olmayı unutma." },
+        { "title": "İlk iş: Belediye", "body": "Kimliğini almak için belediyeye uğra." },
+        { "title": "Yardım mı lazım?", "body": "/rapor komutuyla yetkililere ulaş." }
+      ]
+    }
+  },
+
+  "holidays": {
+    "new-year":        { "name": "Yılbaşı", "badge": "YENİ YILA {days} GÜN KALDI", "message": "Mutlu yıllar! {nextYear} yılını şehirde birlikte karşılayalım.", "label": "ETKİNLİK" },
+    "valentines":      { "name": "Sevgililer Günü", "badge": "14 ŞUBAT · SEVGİLİLER GÜNÜ", "message": "Sevgililer Günü kutlu olsun! Bu akşam şehirde romantik bir gece seni bekliyor.", "label": "SEVGİLİLER GÜNÜ" },
+    "womens-day":      { "name": "Dünya Kadınlar Günü", "badge": "8 MART · DÜNYA KADINLAR GÜNÜ", "message": "Dünya Kadınlar Günü kutlu olsun! Bu şehri güzelleştiren tüm kadınlara teşekkürler.", "label": "KUTLAMA" },
+    "april-fools":     { "name": "1 Nisan", "badge": "1 NİSAN · ŞAKA GÜNÜ", "message": "Bugün şehirde duyduğun her şeye inanma. Özellikle de bu yazıya.", "label": "1 NİSAN" },
+    "mothers-day":     { "name": "Anneler Günü", "badge": "ANNELER GÜNÜ", "message": "Anneler Günü kutlu olsun! Önce anneni ara, şehir biraz bekleyebilir.", "label": "KUTLAMA" },
+    "fathers-day":     { "name": "Babalar Günü", "badge": "BABALAR GÜNÜ", "message": "Babalar Günü kutlu olsun! Şehirdeki bütün babalara selam olsun.", "label": "KUTLAMA" },
+    "community-day":   { "name": "17 Eylül Topluluk Günü", "badge": "17 EYLÜL · TOPLULUK GÜNÜ", "message": "GTA V bugün {years} yaşında! Bu şehri birlikte yaşattığınız için teşekkürler.", "label": "TOPLULUK" },
+    "halloween":       { "name": "Cadılar Bayramı", "badge": "CADILAR BAYRAMI · HALLOWEEN", "message": "Bu gece şehirde tuhaf şeyler oluyor. Dikkatli ol.", "label": "HALLOWEEN" },
+    "black-friday":    { "name": "Black Friday", "badge": "BLACK FRIDAY", "message": "Şehirde indirim çılgınlığı başladı. Mağazalarda kuyruk uzun olabilir.", "label": "FIRSAT" },
+
+    "canakkale":       { "name": "18 Mart Çanakkale Zaferi ve Şehitleri Anma Günü", "badge": "18 MART · ÇANAKKALE ZAFERİ", "message": "Çanakkale Zaferi'nin {years}. yılında tüm şehitlerimizi rahmet ve minnetle anıyoruz.", "label": "ANMA" },
+    "childrens-day":   { "name": "23 Nisan Ulusal Egemenlik ve Çocuk Bayramı", "badge": "23 NİSAN · ULUSAL EGEMENLİK VE ÇOCUK BAYRAMI", "message": "Türkiye Büyük Millet Meclisi'nin açılışının {years}. yılında 23 Nisan Ulusal Egemenlik ve Çocuk Bayramı kutlu olsun!", "label": "BAYRAM" },
+    "labour-day":      { "name": "1 Mayıs Emek ve Dayanışma Günü", "badge": "1 MAYIS · EMEK VE DAYANIŞMA GÜNÜ", "message": "1 Mayıs Emek ve Dayanışma Günü kutlu olsun. Bu şehri ayakta tutan herkese teşekkürler.", "label": "KUTLAMA" },
+    "youth-day":       { "name": "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı", "badge": "19 MAYIS · GENÇLİK VE SPOR BAYRAMI", "message": "19 Mayıs Atatürk'ü Anma, Gençlik ve Spor Bayramı'nın {years}. yılı kutlu olsun!", "label": "BAYRAM" },
+    "democracy-day":   { "name": "15 Temmuz Demokrasi ve Millî Birlik Günü", "badge": "15 TEMMUZ · DEMOKRASİ VE MİLLÎ BİRLİK GÜNÜ", "message": "15 Temmuz şehitlerimizi rahmet ve minnetle anıyoruz.", "label": "ANMA" },
+    "victory-day":     { "name": "30 Ağustos Zafer Bayramı", "badge": "30 AĞUSTOS · ZAFER BAYRAMI", "message": "Büyük Zafer'in {years}. yıl dönümü kutlu olsun!", "label": "BAYRAM" },
+    "republic-day":    { "name": "29 Ekim Cumhuriyet Bayramı", "badge": "29 EKİM · CUMHURİYET BAYRAMI", "message": "Cumhuriyetimizin {years}. yılı kutlu olsun.", "label": "BAYRAM" },
+    "ataturk-memorial":{ "name": "10 Kasım Atatürk'ü Anma Günü", "badge": "10 KASIM · SAYGIYLA ANIYORUZ", "message": "Ulu Önder Mustafa Kemal Atatürk'ü vefatının {years}. yılında saygı ve özlemle anıyoruz.", "label": "ANMA" },
+    "teachers-day":    { "name": "24 Kasım Öğretmenler Günü", "badge": "24 KASIM · ÖĞRETMENLER GÜNÜ", "message": "Öğretmenler Günü kutlu olsun! Bize yol gösteren tüm öğretmenlere teşekkürler.", "label": "KUTLAMA" }
+  },
+
+  "editor": {
+    "brand": "MetaDev",
+    "product": "Loadscreen Studio",
+    "version": "v{version} · ücretsiz",
+    "nav": {
+      "design": "Tasarım", "content": "İçerik", "media": "Medya", "calendar": "Takvim",
+      "share": "Paylaş", "history": "Geçmiş", "stats": "İstatistik"
+    },
+    "actions": { "reset": "Sıfırla", "save": "Kaydet", "saving": "Kaydediliyor…", "close": "Kapat" },
+    "preview": {
+      "live": "Canlı önizleme · 1920×1080",
+      "synced": "Değişiklikler anında yansır",
+      "dirty": "Kaydedilmemiş değişiklikler var"
+    },
+    "summary": { "title": "THEME.JSON", "hint": "Seçimlerine göre oluşturuldu", "none": "yok" },
+    "gallery": { "title": "TASARIM", "glass": "Glass", "minimal": "Minimal" },
+    "accent": { "title": "VURGU RENGİ", "custom": "Özel renk" },
+    "font": { "title": "BAŞLIK FONTU" },
+    "modules": {
+      "title": "MODÜLLER",
+      "welcome": { "label": "Kişisel karşılama", "hint": "Oyuncu adı ve son giriş" },
+      "music":   { "label": "Müzik oynatıcı", "hint": "Playlist ve ses kontrolü" },
+      "cards":   { "label": "Kurallar ve ipuçları", "hint": "Dönen bilgi kartları" },
+      "players": { "label": "Oyuncu sayısı", "hint": "Canlı çevrimiçi sayacı" },
+      "eta":     { "label": "Tahmini süre", "hint": "Oyuncunun önceki yükleme süresine göre" }
+    },
+    "background": { "title": "ARKA PLAN", "hint": "Görsel veya WebM video", "change": "Değiştir", "none": "Arka plan yok" },
+    "content": {
+      "server": "SUNUCU",
+      "serverName": "Sunucu adı (büyük başlık)",
+      "serverLabel": "Tam ad (sol üst köşe)",
+      "badge": "Rozet satırı",
+      "slogan": "Slogan",
+      "cards": "KARTLAR",
+      "interval": "Otomatik geçiş süresi (sn)",
+      "add": "Ekle",
+      "remove": "Sil",
+      "itemTitle": "Başlık",
+      "itemBody": "Açıklama",
+      "glassLimit": "Glass tasarımında her sekmede ilk 4 öğe görünür. Minimal tasarımda hepsi sırayla döner.",
+      "empty": "Henüz öğe yok."
+    },
+    "media": {
+      "background": "ARKA PLAN",
+      "src": "Dosya yolu veya https:// bağlantısı",
+      "type": "Tür",
+      "types": { "auto": "Otomatik", "image": "Görsel", "video": "Video (WebM)" },
+      "bgHint": "Yerel dosyalar web/media/ içinde olmalı (örnek: media/arka-plan.webp). Video için WebM kullan. Discord CDN bağlantıları süreli olduğu için kullanma.",
+      "logo": "LOGO",
+      "logoHint": "Boş bırakırsan tam adın baş harfleri gösterilir.",
+      "extract": "Logodan renk öner",
+      "extracting": "Renkler çıkarılıyor…",
+      "suggestions": "Logodan önerilen vurgu renkleri",
+      "recommended": "Önerilen",
+      "corsError": "Bu görselden renk okunamadı (sunucu CORS izni vermiyor). Logoyu web/media/logo/ içine koyup yerel yolla dene.",
+      "loadError": "Logo yüklenemedi. Yolu kontrol et.",
+      "noLogo": "Önce bir logo yolu gir.",
+      "noColors": "Logoda belirgin bir renk bulunamadı.",
+      "music": "MÜZİK",
+      "volume": "Varsayılan ses",
+      "shuffle": "Karışık çal",
+      "trackTitle": "Şarkı adı",
+      "trackArtist": "Sanatçı",
+      "trackSrc": "media/music/… veya https://",
+      "playlistEmpty": "Playlist boş. Müzik kartı loading screen'de gizlenir.",
+      "add": "Şarkı ekle"
+    },
+    "calendar": {
+      "title": "ZAMANLANMIŞ TEMALAR",
+      "hint": "Zamanlanmış tema senin temanın üstüne uygulanır: sadece renk, ton, efekt, rozet ve mesaj değişir. Tasarım, logo ve sunucu adı aynı kalır.",
+      "previewDate": "Önizleme tarihi",
+      "today": "Bugün",
+      "active": "Bu tarihte: {name}",
+      "inactive": "Bu tarihte özel gün yok.",
+      "disabledGlobal": "Zamanlanmış temalar config.lua'da kapalı (Config.ScheduledThemesEnabled).",
+      "preview": "Önizle",
+      "badge": "Rozet",
+      "message": "Mesaj",
+      "defaultPlaceholder": "Boş bırakırsan varsayılan metin kullanılır",
+      "vars": "Değişkenler: {years} yıl sayısı · {days} yılbaşına kalan gün · {year} · {nextYear}",
+      "scope": { "common": "Ortak", "tr": "TR", "en": "EN" },
+      "remembrance": "Anma"
+    },
+    "share": {
+      "code": "TEMA KODU",
+      "codeHint": "Medya dosyaları koda dahil edilmez, sadece https:// bağlantıları eklenir.",
+      "copy": "Kodu kopyala",
+      "copied": "Kod panoya kopyalandı.",
+      "copyFailed": "Kopyalanamadı. Kodu seçip Ctrl+C ile kopyala.",
+      "import": "KOD İLE İÇE AKTAR",
+      "importPlaceholder": "MDLS1:… kodunu buraya yapıştır",
+      "importButton": "İçe aktar",
+      "imported": "Tema içe aktarıldı. Uygulamak için Kaydet'e bas.",
+      "invalid": "Geçersiz tema kodu."
+    },
+    "history": {
+      "title": "SON KAYITLAR",
+      "hint": "Son 5 kayıt saklanır. Geri dönmek de yeni bir kayıt oluşturur.",
+      "empty": "Henüz kayıt yok.",
+      "restore": "Geri dön",
+      "current": "Şu anki",
+      "by": "{author}",
+      "confirm": "Bu kayda geri dönülsün mü? Kaydedilmemiş değişiklikler kaybolur.",
+      "restored": "Seçilen kayda geri dönüldü.",
+      "kinds": { "save": "Kayıt", "restore": "Geri dönüş" }
+    },
+    "stats": {
+      "title": "İSTATİSTİKLER",
+      "average": "Ortalama yükleme",
+      "today": "Bugünkü giriş",
+      "fastest": "En hızlı",
+      "slowest": "En yavaş",
+      "week": "SON 7 GÜN",
+      "total": "Toplam kayıtlı yükleme: {n}",
+      "empty": "Henüz veri yok. Oyuncular bağlandıkça dolacak.",
+      "seconds": "{n} sn",
+      "joins": "{n} giriş"
+    },
+    "toast": {
+      "saved": "Kaydedildi. Bir sonraki bağlantıda uygulanacak.",
+      "error": "İşlem başarısız: {error}",
+      "warnings": "Bazı alanlar geçersizdi ve eski değerinde bırakıldı: {fields}"
+    },
+    "errors": {
+      "no_permission": "Bu işlem için yetkin yok.",
+      "rate_limited": "Çok hızlı istek gönderiyorsun, biraz bekle.",
+      "timeout": "Sunucu yanıt vermedi.",
+      "invalid_payload": "Gönderilen veri geçersiz.",
+      "not_found": "Kayıt bulunamadı.",
+      "write_failed": "Dosya yazılamadı (data/ klasörünün yazma iznini kontrol et).",
+      "unknown": "Bilinmeyen hata."
+    },
+    "confirm": {
+      "yes": "Evet",
+      "no": "Vazgeç",
+      "close": "Kaydedilmemiş değişiklikler var. Yine de kapatılsın mı?",
+      "reset": "Kaydedilmemiş değişiklikler geri alınsın mı?"
+    },
+    "demo": "Tarayıcı önizlemesi: kayıtlar sunucuya gönderilmez."
+  }
+}

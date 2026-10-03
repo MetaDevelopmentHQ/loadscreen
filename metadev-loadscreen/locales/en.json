@@ -1,0 +1,240 @@
+{
+  "meta": { "code": "en", "name": "English", "intl": "en-US" },
+
+  "players": {
+    "glass": "{online} / {max} players online",
+    "minimal": "{online} / {max} ONLINE"
+  },
+  "stages": {
+    "label": "STAGE {n} / {total}",
+    "names": ["Resources", "Maps", "Vehicles", "Character"],
+    "loading": ["Loading resources", "Loading maps", "Loading vehicles", "Preparing character"],
+    "done": "Entering the city"
+  },
+  "eta": {
+    "remaining": "About {time} left",
+    "seconds": "{n}s",
+    "minutes": "{n} min",
+    "almost": "Almost ready"
+  },
+  "cards": {
+    "tabs": { "rules": "Rules", "updates": "Updates", "tips": "Tips" },
+    "labels": { "rules": "RULE", "updates": "UPDATE", "tips": "TIP" },
+    "autoRotate": "Auto-rotate · {n}s",
+    "prevTip": "Previous tip",
+    "nextTip": "Next tip"
+  },
+  "music": {
+    "nowPlaying": "NOW PLAYING",
+    "prev": "Previous",
+    "next": "Next",
+    "toggle": "Play / Pause",
+    "volume": "Mute / unmute",
+    "placeholderTitle": "[Song title]",
+    "placeholderArtist": "[Artist]",
+    "respect": "Music is off today out of respect."
+  },
+  "keys": {
+    "space": "SPACE",
+    "pause": "Pause music",
+    "arrows": "← →",
+    "cards": "Switch cards",
+    "m": "M",
+    "mute": "Mute"
+  },
+  "welcome": {
+    "back": "Welcome back, {name}",
+    "first": "Welcome, {name}",
+    "lastSeen": "Last seen {when}",
+    "firstTime": "Your first visit, have fun",
+    "sampleName": "Frik"
+  },
+  "credit": { "madeBy": "MADE BY", "brand": "METADEV" },
+
+  "defaults": {
+    "serverName": "MetaV",
+    "serverLabel": "MetaV Roleplay",
+    "badge": "SEASON 3 · NEW CITY",
+    "slogan": "Welcome to the city. Your story starts in a few seconds.",
+    "cards": {
+      "rules": [
+        { "title": "No meta-gaming", "body": "Don't use info your character doesn't know." },
+        { "title": "No power-gaming", "body": "Give others a chance to respond." },
+        { "title": "Respect green zones", "body": "No fights near hospitals or police stations." },
+        { "title": "Report via ticket", "body": "Report rule breaks on Discord." }
+      ],
+      "updates": [
+        { "title": "New city center", "body": "[Update description here]" },
+        { "title": "Economy rework", "body": "[Update description here]" },
+        { "title": "New jobs", "body": "[Update description here]" }
+      ],
+      "tips": [
+        { "title": "Open your phone", "body": "Press F1 to open your phone and sign up." },
+        { "title": "First stop: City Hall", "body": "Visit City Hall to get your ID." },
+        { "title": "Need help?", "body": "Use /report to reach staff." }
+      ]
+    }
+  },
+
+  "holidays": {
+    "new-year":         { "name": "New Year", "badge": "NEW YEAR · {days} TO GO", "message": "Happy New Year! Let's welcome {nextYear} together in the city.", "label": "EVENT" },
+    "valentines":       { "name": "Valentine's Day", "badge": "FEB 14 · VALENTINE'S DAY", "message": "Happy Valentine's Day! A romantic night in the city is waiting for you.", "label": "VALENTINE'S" },
+    "womens-day":       { "name": "International Women's Day", "badge": "MARCH 8 · WOMEN'S DAY", "message": "Happy International Women's Day to every woman who makes this city better.", "label": "HOLIDAY" },
+    "april-fools":      { "name": "April Fools' Day", "badge": "APRIL 1 · APRIL FOOLS'", "message": "Don't believe everything you hear in the city today. Especially this.", "label": "APRIL FOOLS'" },
+    "mothers-day":      { "name": "Mother's Day", "badge": "HAPPY MOTHER'S DAY", "message": "Happy Mother's Day! Call your mom first, the city can wait.", "label": "HOLIDAY" },
+    "fathers-day":      { "name": "Father's Day", "badge": "HAPPY FATHER'S DAY", "message": "Happy Father's Day to every dad in the city.", "label": "HOLIDAY" },
+    "community-day":    { "name": "Community Day", "badge": "SEPT 17 · COMMUNITY DAY", "message": "GTA V turns {years} today! Thanks for keeping this city alive.", "label": "COMMUNITY" },
+    "halloween":        { "name": "Halloween", "badge": "HALLOWEEN", "message": "Strange things are happening in the city tonight. Stay safe.", "label": "HALLOWEEN" },
+    "black-friday":     { "name": "Black Friday", "badge": "BLACK FRIDAY", "message": "The sales are on. Expect long lines at every store in town.", "label": "DEALS" },
+
+    "st-patricks":      { "name": "St. Patrick's Day", "badge": "MARCH 17 · ST. PATRICK'S DAY", "message": "Happy St. Patrick's Day! Wear something green tonight.", "label": "HOLIDAY" },
+    "easter":           { "name": "Easter", "badge": "HAPPY EASTER", "message": "Happy Easter! Keep an eye out for hidden eggs around the city.", "label": "HOLIDAY" },
+    "memorial-day":     { "name": "Memorial Day", "badge": "MEMORIAL DAY · WE REMEMBER", "message": "Today we honor those who gave their lives in service.", "label": "REMEMBRANCE" },
+    "independence-day": { "name": "Independence Day", "badge": "JULY 4 · INDEPENDENCE DAY", "message": "Happy Fourth of July! Fireworks over the pier tonight.", "label": "HOLIDAY" },
+    "labor-day":        { "name": "Labor Day", "badge": "LABOR DAY", "message": "Happy Labor Day! Thanks to everyone who keeps this city running.", "label": "HOLIDAY" },
+    "veterans-day":     { "name": "Veterans Day", "badge": "NOV 11 · VETERANS DAY", "message": "Today we honor everyone who served.", "label": "REMEMBRANCE" },
+    "thanksgiving":     { "name": "Thanksgiving", "badge": "THANKSGIVING", "message": "Happy Thanksgiving! Grateful for every story in this city.", "label": "HOLIDAY" },
+    "christmas":        { "name": "Christmas", "badge": "MERRY CHRISTMAS", "message": "Merry Christmas! Snow is falling over the city tonight.", "label": "HOLIDAY" }
+  },
+
+  "editor": {
+    "brand": "MetaDev",
+    "product": "Loadscreen Studio",
+    "version": "v{version} · free",
+    "nav": {
+      "design": "Design", "content": "Content", "media": "Media", "calendar": "Calendar",
+      "share": "Share", "history": "History", "stats": "Stats"
+    },
+    "actions": { "reset": "Reset", "save": "Save", "saving": "Saving…", "close": "Close" },
+    "preview": {
+      "live": "Live preview · 1920×1080",
+      "synced": "Changes apply instantly",
+      "dirty": "You have unsaved changes"
+    },
+    "summary": { "title": "THEME.JSON", "hint": "Generated from your choices", "none": "none" },
+    "gallery": { "title": "DESIGN", "glass": "Glass", "minimal": "Minimal" },
+    "accent": { "title": "ACCENT COLOR", "custom": "Custom color" },
+    "font": { "title": "TITLE FONT" },
+    "modules": {
+      "title": "MODULES",
+      "welcome": { "label": "Personal welcome", "hint": "Player name and last visit" },
+      "music":   { "label": "Music player", "hint": "Playlist and volume control" },
+      "cards":   { "label": "Rules and tips", "hint": "Rotating info cards" },
+      "players": { "label": "Player count", "hint": "Live online counter" },
+      "eta":     { "label": "Estimated time", "hint": "Based on the player's last load time" }
+    },
+    "background": { "title": "BACKGROUND", "hint": "Image or WebM video", "change": "Change", "none": "No background" },
+    "content": {
+      "server": "SERVER",
+      "serverName": "Server name (large title)",
+      "serverLabel": "Full name (top left)",
+      "badge": "Badge line",
+      "slogan": "Tagline",
+      "cards": "CARDS",
+      "interval": "Auto-rotate interval (s)",
+      "add": "Add",
+      "remove": "Remove",
+      "itemTitle": "Title",
+      "itemBody": "Description",
+      "glassLimit": "Glass shows the first 4 items of each tab. Minimal rotates through all of them.",
+      "empty": "No items yet."
+    },
+    "media": {
+      "background": "BACKGROUND",
+      "src": "File path or https:// link",
+      "type": "Type",
+      "types": { "auto": "Auto", "image": "Image", "video": "Video (WebM)" },
+      "bgHint": "Local files must live in web/media/ (e.g. media/background.webp). Use WebM for video. Don't use Discord CDN links, they expire.",
+      "logo": "LOGO",
+      "logoHint": "Leave empty to show the initials of your full name.",
+      "extract": "Suggest colors from logo",
+      "extracting": "Extracting colors…",
+      "suggestions": "Accent colors from your logo",
+      "recommended": "Recommended",
+      "corsError": "Couldn't read colors from this image (the host doesn't allow CORS). Put the logo in web/media/logo/ and use a local path.",
+      "loadError": "Couldn't load the logo. Check the path.",
+      "noLogo": "Enter a logo path first.",
+      "noColors": "No distinct color found in the logo.",
+      "music": "MUSIC",
+      "volume": "Default volume",
+      "shuffle": "Shuffle",
+      "trackTitle": "Song title",
+      "trackArtist": "Artist",
+      "trackSrc": "media/music/… or https://",
+      "playlistEmpty": "The playlist is empty. The music card is hidden on the loading screen.",
+      "add": "Add song"
+    },
+    "calendar": {
+      "title": "SCHEDULED THEMES",
+      "hint": "A scheduled theme is layered on top of yours: only color, tint, effect, badge and message change. Layout, logo and server name stay the same.",
+      "previewDate": "Preview date",
+      "today": "Today",
+      "active": "On this date: {name}",
+      "inactive": "No special day on this date.",
+      "disabledGlobal": "Scheduled themes are disabled in config.lua (Config.ScheduledThemesEnabled).",
+      "preview": "Preview",
+      "badge": "Badge",
+      "message": "Message",
+      "defaultPlaceholder": "Leave empty to use the default text",
+      "vars": "Variables: {years} anniversary · {days} days until New Year · {year} · {nextYear}",
+      "scope": { "common": "Common", "tr": "TR", "en": "EN" },
+      "remembrance": "Remembrance"
+    },
+    "share": {
+      "code": "THEME CODE",
+      "codeHint": "Media files are not included in the code, only https:// links.",
+      "copy": "Copy code",
+      "copied": "Code copied to clipboard.",
+      "copyFailed": "Couldn't copy. Select the code and press Ctrl+C.",
+      "import": "IMPORT FROM CODE",
+      "importPlaceholder": "Paste an MDLS1:… code here",
+      "importButton": "Import",
+      "imported": "Theme imported. Press Save to apply it.",
+      "invalid": "Invalid theme code."
+    },
+    "history": {
+      "title": "RECENT SAVES",
+      "hint": "The last 5 saves are kept. Restoring creates a new save too.",
+      "empty": "No saves yet.",
+      "restore": "Restore",
+      "current": "Current",
+      "by": "{author}",
+      "confirm": "Restore this save? Unsaved changes will be lost.",
+      "restored": "Save restored.",
+      "kinds": { "save": "Save", "restore": "Restore" }
+    },
+    "stats": {
+      "title": "STATISTICS",
+      "average": "Average load",
+      "today": "Joins today",
+      "fastest": "Fastest",
+      "slowest": "Slowest",
+      "week": "LAST 7 DAYS",
+      "total": "Recorded loads: {n}",
+      "empty": "No data yet. It fills up as players connect.",
+      "seconds": "{n}s",
+      "joins": "{n} joins"
+    },
+    "toast": {
+      "saved": "Saved. It applies from the next connection.",
+      "error": "Action failed: {error}",
+      "warnings": "Some fields were invalid and kept their previous value: {fields}"
+    },
+    "errors": {
+      "no_permission": "You don't have permission to do this.",
+      "rate_limited": "Too many requests, slow down a little.",
+      "timeout": "The server didn't respond.",
+      "invalid_payload": "The data sent was invalid.",
+      "not_found": "Save not found.",
+      "write_failed": "Couldn't write the file (check write access to data/).",
+      "unknown": "Unknown error."
+    },
+    "confirm": {
+      "yes": "Yes",
+      "no": "Cancel",
+      "close": "You have unsaved changes. Close anyway?",
+      "reset": "Discard unsaved changes?"
+    },
+    "demo": "Browser preview: nothing is sent to a server."
+  }
+}
