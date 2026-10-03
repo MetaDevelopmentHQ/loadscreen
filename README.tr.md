@@ -11,7 +11,7 @@ Oyun içi editörlü ve 26 zamanlanmış özel gün temalı, ücretsiz ve açık
 [![Lisans: MIT](https://img.shields.io/badge/Lisans-MIT-8B5CF6.svg)](LICENSE)
 [![FiveM](https://img.shields.io/badge/FiveM-Hazır-22C3E6.svg)](#kurulum)
 [![Framework](https://img.shields.io/badge/ESX%20%C2%B7%20QBCore%20%C2%B7%20Qbox%20%C2%B7%20Standalone-destekleniyor-8B5CF6.svg)](#framework-desteği)
-[![Discord](https://img.shields.io/badge/Discord-Katıl-5865F2.svg)](https://discord.gg/metav)
+[![Discord](https://img.shields.io/badge/Discord-Katıl-5865F2.svg)](https://discord.gg/metadev)
 
 [English](README.md) · **Türkçe**
 
